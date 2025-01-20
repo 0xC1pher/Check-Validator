@@ -1,0 +1,20 @@
+{
+  "name": "lib-validation",
+  "version": "1.0.0",
+  "description": "**Check Validator** es una biblioteca ligera y moderna para validar correos electrónicos, números de teléfono y contraseñas en formularios web. Es fácil de usar, altamente configurable y está diseñada para ser integrada en proyectos modernos de JavaScript.",
+  "main": "validationlib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xC1pher/Check-validator.git"
+  },
+  "keywords": [],
+  "author": "0x4171341, Alfierimorillo@protonmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xC1pher/Check-validator/issues"
+  },
+  "homepage": "https://github.com/0xC1pher/Check-validator#readme"
+}
